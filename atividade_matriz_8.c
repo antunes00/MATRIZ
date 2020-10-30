@@ -1,5 +1,9 @@
-/*8. FaÁa um algoritmo que leia uma matriz 2x5 e contar quantos valores da
-matriz est„o entre 10 e 20.*/
+/*8. Fa√ßa um algoritmo que leia uma matriz 2x5 e contar quantos valores da
+matriz est√£o entre 10 e 20.*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
 
 int matriz [2][5], i , j ;
 
